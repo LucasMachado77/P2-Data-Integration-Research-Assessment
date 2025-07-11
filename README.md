@@ -15,7 +15,7 @@ Dashboard interativo desenvolvido em Python usando Streamlit, pandas e plotly pa
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/LucasMachado77/P2-Data-Integration-Research-Assessment
    cd seu-repo
    ```
 
